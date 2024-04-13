@@ -1,0 +1,19 @@
+footer{
+    margin-top: 5%;
+    padding: 1px;
+    background-color: rgb(32, 192, 216);
+    border:1px solid black;
+}
+footer ul{
+
+    display: flex;
+    margin-left: 4%;
+    
+    
+}
+footer ul li{
+    list-style: none;
+    font-size: large;
+    margin-left: 17%;
+   
+}
